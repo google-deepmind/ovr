@@ -12,8 +12,6 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet:
-
 ```latex
 @misc{dwibedi2024ovrdatasetopenvocabulary,
       title={OVR: A Dataset for Open Vocabulary Temporal Repetition Counting in Videos},
